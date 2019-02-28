@@ -15,3 +15,6 @@ python display_progress.py
 To making Bot1 playing against Bot2:
 
 halite "python Bot1.py" "python Bot2.py"
+
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
