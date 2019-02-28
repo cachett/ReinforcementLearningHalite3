@@ -16,5 +16,6 @@ To making Bot1 playing against Bot2:
 
 halite "python Bot1.py" "python Bot2.py"
 
+![alt text](https://github.com/cachett/U-Net_ImageSegmentation/blob/master/segmentationbrain.PNG)
 ![alt text](https://github.com/cachett/ReinforcementLearningHalite3/blob/master/First-Para-GoodMove.png)
 ![alt text](https://github.com/cachett/ReinforcementLearningHalite3/blob/master/halite.PNG)
