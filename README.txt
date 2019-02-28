@@ -1,3 +1,4 @@
+To see the reinforcement learning bot competiting go to: https://halite.io/user/?user_id=1141
 
 Dueling Deep Q-Network with prioritized experience replay playing halite 3 which is an AI competition launched by Two Sigma. 
 The DDQN algorithms has reached rank 400/6000 with no hard coded decision and only reinforcement learning. Train a model take about 24 hours.
